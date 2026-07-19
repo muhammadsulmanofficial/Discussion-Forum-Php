@@ -1,0 +1,30 @@
+a {
+    color: rgb(148, 72, 199) !important;
+}
+.text-center {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+.question-list {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+}
+.question-list h5 {
+    margin: 0;
+    padding: 0;
+}
+.question-list a, .question-title {
+    text-decoration: none;
+    font-size: 18px;
+    color: #9448c7;
+}
+.answer-wrapper {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 5px;
+}

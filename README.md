@@ -204,22 +204,6 @@ Create a new account using the **Sign Up** page and start using the application.
 
 ---
 
-# 📸 Screenshots
-
-You can add project screenshots here.
-
-Suggested screenshots:
-
-- Home Page
-- Sign Up
-- Login
-- Ask Question
-- Question Details
-- Categories
-- Latest Questions
-
----
-
 # 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome.

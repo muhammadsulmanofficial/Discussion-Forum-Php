@@ -4,6 +4,48 @@ A full-stack Discussion Forum web application built using **PHP, MySQL, HTML, CS
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+<img src="screenshots/home-page.png" width="900">
+
+---
+
+### 📝 Sign Up
+<img src="screenshots/signup-page.png" width="900">
+
+---
+
+### 🔐 Login
+<img src="screenshots/login-page.png" width="900">
+
+---
+
+### ❓ Ask Question
+<img src="screenshots/ask-question.png" width="900">
+
+---
+
+### 💬 Question Details
+<img src="screenshots/question-details.png" width="900">
+
+---
+
+### 📂 Categories
+<img src="screenshots/categories.png" width="900">
+
+---
+
+### 🔍 Search Questions
+<img src="screenshots/search-question.png" width="900">
+
+---
+
+### 👤 My Questions
+<img src="screenshots/my-questions.png" width="900">
+
+
+
 ## 🚀 Features
 
 - User Registration (Sign Up)

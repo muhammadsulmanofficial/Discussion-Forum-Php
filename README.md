@@ -1,5 +1,7 @@
 # 💬 Discussion Forum (PHP & MySQL)
 
+🌐 **Live Demo:** [https://discussion-forum.infinityfreeapp.com](https://discussion-forum.infinityfreeapp.com)
+
 A full-stack Discussion Forum web application built using **PHP, MySQL, HTML, CSS, and Bootstrap**. Users can create an account, log in, ask questions, answer questions, browse categories, search questions, and manage their own content.
 
 ---
